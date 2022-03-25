@@ -1,4 +1,6 @@
-import './navigation.css';
+import './navigation.scss';
+import 'boxicons';
+
 function Navigation() {
     return (
         <header id="header" className="d-flex flex-column justify-content-center">
